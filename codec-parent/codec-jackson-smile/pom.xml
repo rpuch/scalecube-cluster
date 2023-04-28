@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>io.scalecube</groupId>
+    <groupId>io.scalecube.patched</groupId>
     <artifactId>scalecube-codec-parent</artifactId>
     <version>2.6.12-patch4</version>
   </parent>

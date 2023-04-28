@@ -4,7 +4,7 @@
 
   <parent>
     <artifactId>scalecube-cluster-parent</artifactId>
-    <groupId>io.scalecube</groupId>
+    <groupId>io.scalecube.patched</groupId>
     <version>2.6.12-patch4</version>
   </parent>
 

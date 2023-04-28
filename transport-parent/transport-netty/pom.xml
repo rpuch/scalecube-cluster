@@ -4,7 +4,7 @@
 
   <parent>
     <artifactId>scalecube-transport-parent</artifactId>
-    <groupId>io.scalecube</groupId>
+    <groupId>io.scalecube.patched</groupId>
     <version>2.6.12-patch4</version>
   </parent>
 
@@ -13,7 +13,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>io.scalecube</groupId>
+      <groupId>io.scalecube.patched</groupId>
       <artifactId>scalecube-transport-api</artifactId>
       <version>${project.version}</version>
     </dependency>
