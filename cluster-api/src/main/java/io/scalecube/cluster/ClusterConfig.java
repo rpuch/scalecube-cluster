@@ -161,7 +161,8 @@ public final class ClusterConfig implements Cloneable {
   }
 
   /**
-   * Returns ID to use for the local member. If {@code null}, the ID will be generated automatically.
+   * Returns ID to use for the local member. If {@code null}, the ID will be generated
+   * automatically.
    *
    * @return local member ID.
    */
